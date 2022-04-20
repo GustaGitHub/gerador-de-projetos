@@ -1,1 +1,0 @@
-module.exports = "//Arquivo de Script para seu projeto"
