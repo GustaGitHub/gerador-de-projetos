@@ -1,0 +1,12 @@
+{
+  "name": "project_generator",
+  "version": "1.0.0",
+  "description": "Script para Gerar um Projeto Front-end (HTML, CSS, Javascript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node index.js"
+  },
+  "author": "Gustavo Ribeiro - https://github.com/GustaGitHub",
+  "license": "ISC"
+}
